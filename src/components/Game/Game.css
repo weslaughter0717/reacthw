@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  background-color: yellow;
+}
+
+.App-header {
+  background-image: url("https://image.freepik.com/free-psd/abstract-background-design_1297-87.jpg");
+  height: 200px;
+  padding: 20px;
+  color: yellow;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.container {
+  margin: 4px black;
+  padding-top: 60px;
+  padding-left: 125px;
+  line-height: 0;
+  -webkit-column-count: 5;
+  -webkit-column-gap:   0px;
+  -moz-column-count:    5;
+  -moz-column-gap:      0px;
+  column-count:         5;
+  column-gap:           0px; 
+}
+
+/*.container{*/
+/*  grid-columns: small;*/
+/*   display: flex;*/
+/*  align-items: center;*/
+/*}*/
+img{
+  height: 100px;
+  width: 100px;
+}
+.footer {
+  background-image: url("https://image.freepik.com/free-psd/abstract-background-design_1297-87.jpg");
+  height: 100px;
+  color: yellow;
+}
